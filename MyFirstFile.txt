@@ -1,1 +1,2 @@
 Testing git add <filename>
+Get working repo git remote -v
